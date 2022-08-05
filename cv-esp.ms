@@ -34,7 +34,7 @@ ncb.ar
 github.com/ncb-ar
 
 
-.heading "Experiencia profecional"
+.heading "Experiencia profesional"
 .B "2018 - 2021"
 : Fullstack web developer in the startup habla.pro
 .br
